@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:football_news/models/news_entry.dart';
 
+
 class NewsEntryCard extends StatelessWidget {
   final NewsEntry news;
   final VoidCallback onTap;
