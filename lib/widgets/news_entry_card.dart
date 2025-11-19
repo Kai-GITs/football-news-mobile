@@ -12,7 +12,7 @@ class NewsEntryCard extends StatelessWidget {
     required this.onTap,
   });
 
-  //for nothing really
+  //for nothing reallyfnefnewufn
 
   @override
   Widget build(BuildContext context) {
